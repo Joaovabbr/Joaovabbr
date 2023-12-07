@@ -5,6 +5,8 @@
   Quem eu sou: 
 </h4>
 Apenas um jovem universitário que almeja tornar o mundo um lugar melhor para as pessoas e sempre em busca de conhecer mais sobre programação, tecnologia e computação em geral. 
+Estou cursando engenharia da computação no segundo semestre no Insper 
+
 
 <h4> Linguagens utilizadas:</h4>
 <div style="display: inline_block"><br>
