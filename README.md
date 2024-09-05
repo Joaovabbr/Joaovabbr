@@ -19,7 +19,10 @@ Estou cursando engenharia da computação no segundo semestre no Insper
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 <br>
-<img position="relative" left="50%" src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovabbr&layout=donut-vertical&theme=midnight-purple' >
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovabbr&layout=donut-vertical&theme=midnight-purple">
+</div>
+
 
 
   ---
@@ -29,22 +32,3 @@ Onde me encontrar:
 <a href= 'https://www.instagram.com/jvalmeidabraga/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
 <a href= 'https://www.linkedin.com/in/joaovab/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 <a href='https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Ajoaovab%40al.insper.edu.br'><img src='https://img.shields.io/badge/joaovab@al.insper.edu.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'></a>
-
-
-
-
-
-<!--
-**Joaovabbr/Joaovabbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
