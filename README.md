@@ -19,7 +19,7 @@ Estou cursando engenharia da computação no segundo semestre no Insper
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 <br>
-<img align= "center" src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovabbr&layout=donut-vertical&theme=midnight-purple' >
+<img position="relative" left="50%" src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovabbr&layout=donut-vertical&theme=midnight-purple' >
 
 
   ---
