@@ -16,6 +16,7 @@ Estou cursando engenharia da computação no segundo semestre no Insper
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Jupyter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 <br>
 <img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovabbr&layout=donut-vertical&theme=midnight-purple' >
